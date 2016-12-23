@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="514aaa88-ffd2-475f-ace6-ea49b34a100a" version="23">
+  <Properties>
+    <Name>LOC_CORDIFORM_EARTH_NAME</Name>
+    <Teaser>LOC_CORDIFORM_EARTH_DESC</Teaser>
+    <Description>LOC_CORDIFORM_EARTH_DESC</Description>
+    <Authors>Gedemon</Authors>
+  </Properties>
+
+  	<Dependencies>
+		<Mod id="36e88483-48fe-4545-b85f-bafc50dde315" title="Yet (not) Another Maps Pack" />
+	</Dependencies>
+  
+	<Settings>
+		<Custom id="CordiformEarthSettings">
+			<Items>
+				<File>Config.xml</File>
+			</Items>
+		</Custom>
+		<LocalizedText id="CordiformEarthSettings">
+			<Items>
+				<File>ConfigText.xml</File>
+			</Items>
+		</LocalizedText>
+	</Settings>	
+	<Components>
+		<ImportFiles id="CordiformEarthImport">
+			<Items>
+				<File>CordiformEarth.lua</File>
+			</Items>
+		</ImportFiles>
+		<UpdateDatabase id="CordiformEarthDB">
+			<Items>
+				<File>Tables.sql</File>
+				<File>Map.xml</File>
+			</Items>
+		</UpdateDatabase>
+	</Components>
+	
+	<LocalizedText>
+		<Text id="LOC_CORDIFORM_EARTH_NAME">
+			<en_US>YnAMP - Cordiform Earth</en_US>
+		</Text>
+		<Text id="LOC_CORDIFORM_EARTH_DESC">
+			<en_US>smellymummy's Cordiform Earth (80x52) for Yet (not) Another Maps Pack</en_US>
+		</Text>
+	</LocalizedText>
+	
+	<Files>
+		<File>Config.xml</File>
+		<File>ConfigText.xml</File>
+		<File>Tables.sql</File>
+		<File>Map.xml</File>
+		<File>CordiformEarth.lua</File>
+	</Files>
+</Mod>

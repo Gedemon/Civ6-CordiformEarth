@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    
+	<Replace Tag="LOC_CORDIFORM_EARTH_NAME" Language="en_US">
+      <Text>Cordiform Earth</Text>
+    </Replace>
+    <Replace Tag="LOC_CORDIFORM_EARTH_DESC" Language="en_US">
+      <Text>smellymummy's Cordiform Earth (80x52)</Text>
+    </Replace>
+	
+  </LocalizedText>
+</GameData>
