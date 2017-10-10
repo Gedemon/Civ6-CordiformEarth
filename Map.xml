@@ -25,8 +25,13 @@
         <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_RUSSIA"	X="45" Y="36" />		
         <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SCYTHIA"	X="49" Y="33" />		
         <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SPAIN"		X="32" Y="24" />		
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SUMERIA"	X="50" Y="20" />		
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_POLAND"	X="42" Y="33" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SUMERIA"	X="50" Y="20" />	
+        <!-- DLC -->
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AUSTRALIA" X="75" Y="8" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_PERSIA"    X="53" Y="22" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_POLAND"    X="43" Y="35" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MACEDON"   X="43" Y="24" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_NUBIA"     X="46" Y="13" />
 	</StartPosition>	
 	
 	<!-- Minors -->
@@ -54,7 +59,14 @@
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_VALLETTA"		X="37" Y="21" />		
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_VILNIUS"		X="41" Y="37" />		
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_YEREVAN"		X="49" Y="27" />
-		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ZANZIBAR"		X="48" Y="8" />		
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ZANZIBAR"		X="48" Y="8" />
+        <!-- DLC -->
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AUCKLAND"      X="63" Y="5" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ANTANANARIVO"  X="46" Y="6" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ARMAGH"        X="30" Y="36" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GRANADA"       X="32" Y="22" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MUSCAT"        X="54" Y="18" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_PALENQUE"      X="8" Y="22" />   
 	</StartPosition>
 	
 </GameData>
