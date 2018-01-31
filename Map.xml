@@ -6,67 +6,82 @@
 
 	<!-- Majors -->
 	<StartPosition>
-		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AMERICA"	X="13" Y="32" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ARABIA"	X="49" Y="16" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AZTEC"		X="5" Y="27" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_BRAZIL"	X="19" Y="11" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_CHINA"		X="60" Y="35" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_EGYPT"		X="44" Y="16" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ENGLAND"	X="34" Y="34" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_FRANCE"	X="33" Y="29" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GERMANY"	X="39" Y="32" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GREECE"	X="42" Y="23" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GREECE"	X="43" Y="25" Leader="LEADER_GORGO" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_INDIA"		X="58" Y="22" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_JAPAN"		X="60" Y="45" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KONGO"		X="39" Y="8" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_NORWAY"	X="39" Y="38" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ROME"		X="37" Y="24" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_RUSSIA"	X="45" Y="36" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SCYTHIA"	X="49" Y="33" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SPAIN"		X="32" Y="24" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SUMERIA"	X="50" Y="20" />
-        <!-- DLC -->
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AUSTRALIA" X="75" Y="8" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_PERSIA"    X="53" Y="22" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_POLAND"    X="43" Y="35" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MACEDON"   X="43" Y="24" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_NUBIA"     X="46" Y="13" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AMERICA"		X="13" Y="32" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ARABIA"		X="49" Y="16" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AZTEC"		X="5" Y="27" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_BRAZIL"		X="19" Y="12" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_CHINA"		X="60" Y="35" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_EGYPT"		X="44" Y="16" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ENGLAND"		X="34" Y="34" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_FRANCE"		X="33" Y="29" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GERMANY"		X="39" Y="32" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GREECE"		X="42" Y="23" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GREECE"		X="43" Y="25" Leader="LEADER_GORGO" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_INDIA"		X="56" Y="23" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_JAPAN"		X="60" Y="45" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KONGO"		X="39" Y="8" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_NORWAY"		X="39" Y="38" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ROME"		X="37" Y="24" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_RUSSIA"		X="45" Y="36" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SCYTHIA"		X="49" Y="33" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SPAIN"		X="32" Y="24" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SUMERIA"		X="50" Y="20" />
+		<!-- DLC -->
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AUSTRALIA" 	X="75" Y="8" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_INDONESIA"		X="65" Y="17" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KHMER"		X="64" Y="23" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_PERSIA"    	X="53" Y="22" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_POLAND"    	X="43" Y="35" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MACEDON"   	X="43" Y="24" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_NUBIA"     	X="46" Y="13" />
+		<!-- R&F -->
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_CREE"		X="18" Y="42" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GEORGIA"		X="49" Y="27" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_INDIA"		X="59" Y="18" Leader="LEADER_CHANDRAGUPTA" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KOREA"		X="61" Y="40" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MAPUCHE"		X="15" Y="7" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MONGOLIA"		X="53" Y="42" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_NETHERLANDS"	X="36" Y="33" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SCOTLAND"		X="31" Y="37" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ZULU"		X="39" Y="3" />
 	</StartPosition>
 
 	<!-- Minors -->
 	<StartPosition>
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AMSTERDAM"		X="36" Y="33" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_BRUSSELS"		X="36" Y="26" />
-		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_BUENOS_AIRES"	X="18" Y="6" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_BUENOS_AIRES"	X="19" Y="8" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_CARTHAGE"		X="35" Y="20" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GENEVA"		X="37" Y="28" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_HATTUSA"		X="47" Y="24" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_HONG_KONG"		X="65" Y="31" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_JAKARTA"		X="71" Y="22" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_JERUSALEM"		X="46" Y="19" />
-		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KABUL"			X="54" Y="25" />
-		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KANDY"			X="61" Y="17" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KABUL"		X="54" Y="25" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KANDY"		X="61" Y="17" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KUMASI"		X="32" Y="13" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_LA_VENTA"		X="6" Y="26" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_LISBON"		X="30" Y="24" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MOHENJO_DARO"	X="54" Y="22" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_NAN_MADOL"		X="74" Y="22" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_PRESLAV"		X="44" Y="27" />
-		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SEOUL"			X="61" Y="40" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SEOUL"		X="61" Y="40" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_STOCKHOLM"		X="39" Y="38" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_TORONTO"		X="16" Y="45" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_VALLETTA"		X="37" Y="21" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_VILNIUS"		X="41" Y="37" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_YEREVAN"		X="49" Y="27" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ZANZIBAR"		X="48" Y="8" />
-        <!-- DLC -->
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AUCKLAND"      X="63" Y="5" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ANTANANARIVO"  X="46" Y="6" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ARMAGH"        X="30" Y="36" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GRANADA"       X="32" Y="22" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MUSCAT"        X="54" Y="18" />
-        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_PALENQUE"      X="8" Y="22" />
+		<!-- DLC -->
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AUCKLAND"      	X="63" Y="5" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ANTANANARIVO"  	X="46" Y="6" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ARMAGH"        	X="30" Y="36" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GRANADA"       	X="32" Y="22" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MUSCAT"        	X="54" Y="18" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_PALENQUE"      	X="8" Y="22" />
+		<!-- R&F -->
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ANTIOCH"		X="47" Y="21" />
+		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_BABYLON"		X="50" Y="22" />
 	</StartPosition>
 
 </GameData>
